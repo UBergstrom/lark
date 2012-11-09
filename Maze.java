@@ -2,6 +2,7 @@ package lark.fun.maze;
 
 import java.util.Random;
 
+
 /**
 * This class represents a maze as a grid of MazeSquares
 * @version 1.1 2012.9.2 Bug that left some squares unconnected to
