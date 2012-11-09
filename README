@@ -1,9 +1,0 @@
-Maze is a simple program that creates a random, square maze that has a unique solution path and is completely filled with connected paths.
-
-1) Install and compile files Maze.java, MazeGrid.java, and MazeSquare.java
-
-2) To invoke, use: lark.fun.maze.Maze
-
-Desired x- and y-dimensions can be optionally input during invocations:
-
-lark.fun.maze.Maze 50 50
