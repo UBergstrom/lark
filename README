@@ -1,0 +1,7 @@
+Maze is a simple program that creates a random, square maze that has a unique solution path and is completely filled with connected paths.
+
+To invoke, use: lark.fun.maze.Maze
+
+Desired x- and y-dimensions can be optionally input during invocations:
+
+lark.fun.maze.Maze 50 50
